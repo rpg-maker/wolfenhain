@@ -1,0 +1,106 @@
+WOLFENHAIN - Ein Spiel von real Troll
+-------------------------------------
+
+1. Allgemeine Tipps
+2. Steuerung
+3. Dank
+4. Kontakt
+
+
+1. Allgemeine Tipps
+-------------------
+- Wiki zum Spiel: http://de.wolfenhain.wikia.com/wiki/Wolfenhain_Wiki
+- Speichere oft, speichere nicht nur in einem Spielstand.
+- Nutze die Reiserolle und das Eulenwissen (sobald du beide erspielt hast), 
+  um dir die Orientierung zu erleichtern.
+- Die Worträtsel haben eingebaute Hilfen. Du kannst dir nicht nur jederzeit 
+  wieder die Frage, sondern auch kleine Hilfen anzeigen lassen. Jedes 
+  Worträtsel hat 3 Hilfsstufen. Inwieweit du sie nutzt, liegt nur bei dir 
+  und deinem Stolz, es hat keine Auswirkungen auf die ausgeschüttete Beute.
+- Manchmal hast du verschiedene Möglichkeiten, wie du etwas angehen magst.
+  Richte dich einfach nach deinem Geschmack, nur in wenigen Fällen entscheidet
+  deine Wahl auch über einzigartige Beute. Hähä, was für ein schöner Tipp. 
+- Die Schrift sieht schwer leserlich aus? Installiere die beiliegende 
+  Schriftart "msgothic"
+- Das Bild ist unscharf und verzogen? Mit der F4-Taste kannst du in den 
+  Fenstermodus wechseln. 
+  Oder nutze cherrys Vollbild-Modus. Damit laufen RPG-Maker-Spiele auch
+  auf zickigen Grafikkarten und wer will, kann damit sogar einen HD-Filter
+  über die handgepixelten Grafiken legen: http://cherrytree.at/downloads/afm.rar 
+
+2. Steuerung
+------------
+- Die Pfeiltasten dienen der Bewegung, mit Enter führt man Aktionen aus, 
+  Escape ruft das Menü auf und schließt es wieder.
+- Fallen entschärfen:
+  Klickt man, während der Schalter rot blinkt, löst das die Falle aus.
+  Per Fragezeichen ermittelt man die ungefähre Anordnung der Falle. Die wird
+  im oberen Bild angezeigt und liest sich wie folgt:
+  * Ein Stern ist definitiv Teil der Falle.
+  ? Ein Fragezeichen ist vielleicht ein Teil der Falle.
+  - Ein Strich ist kein Teil der Falle.
+  Auf der rechten Seite kann man mit den Pfeilen zwischen Gisulf bereits
+  bekannten Fallentypen hin- und herwechseln und vergleichen, welcher zur
+  oben angezeigten Fallenanordnung passt. Die bekannten Fallen werden unten 
+  angezeigt und erleichtern so den schnellen Abgleich. 
+  Hat man sich für einen eventuell passenden Fallentyp entschieden, entschärft
+  man die Vorrichtung über die grauen Knöpfe. Jeder Fallentyp gibt nicht nur an,
+  welche der grauen Knöpfe gedrückt werden müssen, sondern auch, in welcher
+  Reihenfolge.
+- Schlösser knacken:
+  Jedes Schloss hat mehrere Zylinder, die alle freigeschaltet werden müssen.
+  Klicke immer dann auf den Zylinderknopf, wenn der Zylinder Grün leuchtet.
+  Erwischst du ihn bei Rot, ist der Knackversuch gescheitert.
+  Gelegentlich kann Gisulf an eine Truhe geraten, die erst bei höherer Fertigkeits-
+  stufe leichter zu öffnen ist. Merke dir einfach den Standort und komme später wieder.
+  Vorsicht: Manche Schlösser verklemmen nach einem gescheiterten Versuch dauerhaft.
+
+
+3. Dank
+-------
+
+Ein besonders großes Danke für die schönen Grafikkachelsätze, die mir als 
+Grundlage weiterer Bearbeitungen dienten, geht auch bei diesem Projekt an REFMAP. 
+Die Originalgrafiken sind hier zu finden: http://www.tekepon.net/fsm
+Außerdem danke ich Davias, Eron, Inius, nvision, Omega999, dem ORTP des
+RPG-Ateliers, PandaMaru, RedHotRage, Terminatrix, Vulpes, Yukari, zi-double.
+Und wer immer auch Grafiken entdeckt, von denen er meint, sie seien von ihm,
+verargt es mir bitte nicht, wenn er bislang namenlos dem Spiel nutzte, sondern
+sagt mir einfach Bescheid und wird dann ebenfalls bedacht.
+
+Ich danke ganz besonders herzlich Fabian Horstfeld (The Atti_dude) für die 
+Melodien. Ja, sie sind alle von ihm. Die Reisemusik stimmt auf Abenteuer ein? Der
+Kampf rüttelt wach? Schon beim Eintritt in die Taverne ist der Stimmungswandel
+hörbar? Das ist das Werk des Komponisten.  
+
+Meine Technikbegeisterung hat irgendwann Grenzen. Dann springen die Talente anderer
+Menschen ein. Danke cherry für den Patch, GPI für die Eisseespiegelung und GsandSDS
+für die Schrittgeräusche.
+
+Ohne die aufmerksamen Betatester hätte es sich was mit Spielspaß.
+Und diesen unerschrockenen Fehlerjägern verdankt das Spiel sowohl
+ein friedliches, von einigen grässlichen Bugs befreites Dasein als
+auch einige ideenreiche Zusätze im Spielzuschnitt. Falls also jemand 
+den Abspann nur querliest, lauere ich hier noch einmal mit meiner
+Danksagung auf.
+Danke, Betatestermaus!
+Danke, Athanasius, chris, Friedfall Sagenklöppler von Holzforst, Groogokk, 
+Mio-Raem, Richi, sensewriter, wusch!
+
+Einen Spezialdank an D4rkplayer und LittleGreen für die Spinnenbeinproblematik. Ich habe
+das heimliche Fundament, auf dem das gesamte Spiel ruht, nicht vergessen.
+
+4. Kontakt
+----------
+Fragen rund ums Spiel werden vermutlich auf dieser Seite recht rege beantwortet
+und diskutiert:
+ http://www.rpg-atelier.net/
+
+Direktlink ins Forum: 
+ http://www.multimediaxis.de/forums/5-RPG-Atelier 
+
+Außerdem gibt es ein Wiki zum Spiel:
+ http://de.wolfenhain.wikia.com/wiki/Wolfenhain_Wiki
+
+Für alles Offenbleibende gibt es die Email. Meine Adresse lautet:
+real_troll2005@yahoo.de
